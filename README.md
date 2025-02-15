@@ -30,9 +30,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Sorting
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+## String
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+## Stack
+|  |
+| ------- |
+| [2021-remove-all-occurrences-of-a-substring](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 <!---LeetCode Topics End-->
