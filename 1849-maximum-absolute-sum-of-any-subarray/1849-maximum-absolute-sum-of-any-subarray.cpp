@@ -9,6 +9,6 @@ public:
         }
             mn=min(mn,sum);
             mx=max(mx,sum);
-        return abs(mn-mx);
+        return mx-mn;
     }
 };
