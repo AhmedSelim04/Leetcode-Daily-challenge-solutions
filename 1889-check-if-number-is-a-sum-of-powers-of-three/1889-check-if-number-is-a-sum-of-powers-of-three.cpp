@@ -1,17 +1,13 @@
 class Solution {
 public:
     bool checkPowersOfThree(int n) {
-        for(int i=0;i<(1LL<<16);i++){
-            int msk=i,j=0,sum=0;
-            while(msk){
-                if(msk&1){
-                    sum+=pow(3,j);
-                }
-                j++;
-                msk>>=1;
-            }
-            if(sum==n)return true;
+        int i=0;
+        while(pow(3,i)<=n)i++;
+        while(n){
+            if(pow(3,i)<=n)n-=pow(3,i);
+            if(pow(3,i)<=n)return false;;
+            i--;
         }
-        return false;
+        return true;
     }
 };
