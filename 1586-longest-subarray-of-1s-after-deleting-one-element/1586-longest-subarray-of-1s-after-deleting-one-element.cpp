@@ -13,6 +13,7 @@ public:
             }
             ans=max(ans,i-j);
         }
+        if(ans==nums.size())ans--;
         return ans;
     }
 };
