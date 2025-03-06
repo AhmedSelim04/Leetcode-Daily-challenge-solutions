@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [1236-n-th-tribonacci-number](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1889-check-if-number-is-a-sum-of-powers-of-three](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1889-check-if-number-is-a-sum-of-powers-of-three) |
 | [2448-count-number-of-bad-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2649-count-total-number-of-colored-cells](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2649-count-total-number-of-colored-cells) |
@@ -91,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [1236-n-th-tribonacci-number](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 ## Two Pointers
@@ -133,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0969-number-of-recent-calls](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0969-number-of-recent-calls) |
+## Memoization
+|  |
+| ------- |
+| [1236-n-th-tribonacci-number](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1236-n-th-tribonacci-number) |
 <!---LeetCode Topics End-->
