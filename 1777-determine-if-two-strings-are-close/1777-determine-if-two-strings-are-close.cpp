@@ -8,17 +8,15 @@ public:
         }for(int i=0;i<word2.size();i++){
             f2[word2[i]-'a']++;
         }
-        multiset<int>a,b;
         for(int i=0;i<26;i++){
             if(f1[i]&&f2[i]||(!f1[i]&&!f2[i])){
-                a.insert(f1[i]);
-                b.insert(f2[i]);
+                continue;
             }
             else return false;
         }
-        for(auto it1=a.begin(),it2=b.begin();it1!=a.end()&&it2!=b.end();it1++,it2++){
-            if(*it1!=*it2)return false;
-        }
+        sort(f1.begin(),f1.end());
+        sort(f2.begin(),f2.end());
+        for(int i=0;i<26;i++)if(f1[i]!=f2[i])return false;
         return true;
     }
 };
