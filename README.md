@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [1046-max-consecutive-ones-iii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -97,4 +98,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0334-increasing-triplet-subsequence) |
+## Binary Search
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Sliding Window
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Prefix Sum
+|  |
+| ------- |
+| [1046-max-consecutive-ones-iii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1046-max-consecutive-ones-iii) |
 <!---LeetCode Topics End-->
