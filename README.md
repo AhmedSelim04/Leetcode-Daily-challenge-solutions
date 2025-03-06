@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
@@ -92,4 +93,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3227-find-missing-and-repeated-values](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3227-find-missing-and-repeated-values) |
+## Greedy
+|  |
+| ------- |
+| [0334-increasing-triplet-subsequence](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0334-increasing-triplet-subsequence) |
 <!---LeetCode Topics End-->
