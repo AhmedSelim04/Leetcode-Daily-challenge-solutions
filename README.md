@@ -121,4 +121,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1046-max-consecutive-ones-iii) |
+## Design
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0969-number-of-recent-calls) |
+## Queue
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0969-number-of-recent-calls) |
+## Data Stream
+|  |
+| ------- |
+| [0969-number-of-recent-calls](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0969-number-of-recent-calls) |
 <!---LeetCode Topics End-->
