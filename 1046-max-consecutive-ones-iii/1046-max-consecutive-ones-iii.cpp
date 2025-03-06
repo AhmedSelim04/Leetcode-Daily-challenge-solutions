@@ -6,7 +6,7 @@ public:
             if(nums[i]==0){
                 if(k)k--;
                 else {
-                    while(j<n&&nums[j]!=0)j++;
+                    while(j<n&&j<=i&&nums[j]!=0)j++;
                     j++;
                 }
             }
