@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1952-minimum-sideway-jumps](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1952-minimum-sideway-jumps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2428-equal-row-and-column-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -103,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1236-n-th-tribonacci-number](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1236-n-th-tribonacci-number) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
+| [1952-minimum-sideway-jumps](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1952-minimum-sideway-jumps) |
 ## Two Pointers
 |  |
 | ------- |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0334-increasing-triplet-subsequence) |
+| [1952-minimum-sideway-jumps](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1952-minimum-sideway-jumps) |
 ## Binary Search
 |  |
 | ------- |
