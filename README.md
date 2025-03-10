@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3227-find-missing-and-repeated-values) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Math
 |  |
 | ------- |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
 | ------- |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1046-max-consecutive-ones-iii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3483-alternating-groups-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3483-alternating-groups-ii) |
+| [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Prefix Sum
 |  |
 | ------- |
