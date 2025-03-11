@@ -29,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2428-equal-row-and-column-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2448-count-number-of-bad-pairs) |
@@ -71,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
@@ -135,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1460-number-of-substrings-containing-all-three-characters](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [3483-alternating-groups-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3483-alternating-groups-ii) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
