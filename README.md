@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3227-find-missing-and-repeated-values](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3227-find-missing-and-repeated-values) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 | [3483-alternating-groups-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3483-alternating-groups-ii) |
+| [3643-zero-array-transformation-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Hash Table
 |  |
 | ------- |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1046-max-consecutive-ones-iii) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
+| [3643-zero-array-transformation-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
 |  |
 | ------- |
@@ -148,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [3643-zero-array-transformation-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Design
 |  |
 | ------- |
