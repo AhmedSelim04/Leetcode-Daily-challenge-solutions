@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [0747-min-cost-climbing-stairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0747-min-cost-climbing-stairs) |
 | [1046-max-consecutive-ones-iii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
@@ -136,6 +137,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1046-max-consecutive-ones-iii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1046-max-consecutive-ones-iii) |
+| [1335-maximum-candies-allocated-to-k-children](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1335-maximum-candies-allocated-to-k-children) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [3643-zero-array-transformation-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3643-zero-array-transformation-ii) |
 ## Sliding Window
