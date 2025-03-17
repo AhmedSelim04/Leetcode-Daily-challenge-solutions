@@ -18,6 +18,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1849-maximum-absolute-sum-of-any-subarray](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1849-maximum-absolute-sum-of-any-subarray) |
 | [1952-minimum-sideway-jumps](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1952-minimum-sideway-jumps) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
+| [2308-divide-array-into-equal-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2308-divide-array-into-equal-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2428-equal-row-and-column-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
@@ -55,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1777-determine-if-two-strings-are-close) |
+| [2308-divide-array-into-equal-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2448-count-number-of-bad-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2448-count-number-of-bad-pairs) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 ## Heap (Priority Queue)
@@ -177,4 +180,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2610-closest-prime-numbers-in-range](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2610-closest-prime-numbers-in-range) |
+## Bit Manipulation
+|  |
+| ------- |
+| [2308-divide-array-into-equal-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 <!---LeetCode Topics End-->
