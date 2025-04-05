@@ -27,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2564-most-profitable-path-in-a-tree](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2564-most-profitable-path-in-a-tree) |
 | [2614-maximum-count-of-positive-integer-and-negative-integer](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2614-maximum-count-of-positive-integer-and-negative-integer) |
 | [2665-minimum-time-to-repair-cars](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2665-minimum-time-to-repair-cars) |
+| [2681-put-marbles-in-bags](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2681-put-marbles-in-bags) |
 | [2690-house-robber-iv](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2690-house-robber-iv) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
 | [3227-find-missing-and-repeated-values](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3227-find-missing-and-repeated-values) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2681-put-marbles-in-bags](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2681-put-marbles-in-bags) |
 | [3332-minimum-operations-to-exceed-threshold-value-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3332-minimum-operations-to-exceed-threshold-value-ii) |
 ## Simulation
 |  |
@@ -80,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1777-determine-if-two-strings-are-close](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2473-max-sum-of-a-pair-with-equal-sum-of-digits](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2473-max-sum-of-a-pair-with-equal-sum-of-digits) |
+| [2681-put-marbles-in-bags](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2681-put-marbles-in-bags) |
 ## String
 |  |
 | ------- |
@@ -140,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0334-increasing-triplet-subsequence](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0334-increasing-triplet-subsequence) |
 | [1952-minimum-sideway-jumps](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1952-minimum-sideway-jumps) |
+| [2681-put-marbles-in-bags](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2681-put-marbles-in-bags) |
 ## Binary Search
 |  |
 | ------- |
