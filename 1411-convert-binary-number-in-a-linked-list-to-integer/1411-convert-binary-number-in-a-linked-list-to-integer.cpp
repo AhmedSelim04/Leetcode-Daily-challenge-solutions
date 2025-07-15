@@ -19,14 +19,13 @@ public:
         }
         int ans=0;
         cur=head;
-        int z=(1<<sz-1);
         for(int i=sz-1;i>=0;i--){
             if(cur->val){
-                ans+=z;
+                ans+=(1<<i);
             }
-            z>>=1;
             cur=cur->next;
         }
         return ans;
+        
     }
 };
