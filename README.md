@@ -92,6 +92,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2021-remove-all-occurrences-of-a-substring](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2021-remove-all-occurrences-of-a-substring) |
+| [3396-valid-word](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3396-valid-word) |
 | [3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3569-count-of-substrings-containing-every-vowel-and-k-consonants-ii) |
 ## Stack
 |  |
