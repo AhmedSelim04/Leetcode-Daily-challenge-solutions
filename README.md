@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0064-minimum-path-sum) |
 | [0198-house-robber](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0322-coin-change) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0037-sudoku-solver) |
 | [1460-number-of-substrings-containing-all-three-characters](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1460-number-of-substrings-containing-all-three-characters) |
 | [1777-determine-if-two-strings-are-close](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1777-determine-if-two-strings-are-close) |
 | [2308-divide-array-into-equal-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2308-divide-array-into-equal-pairs) |
@@ -103,6 +105,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Backtracking
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0037-sudoku-solver) |
 | [1819-construct-the-lexicographically-largest-valid-sequence](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1819-construct-the-lexicographically-largest-valid-sequence) |
 ## Tree
 |  |
@@ -141,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0037-sudoku-solver](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0037-sudoku-solver) |
 | [0064-minimum-path-sum](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0064-minimum-path-sum) |
 | [2428-equal-row-and-column-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2428-equal-row-and-column-pairs) |
 | [3227-find-missing-and-repeated-values](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3227-find-missing-and-repeated-values) |
