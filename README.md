@@ -39,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
 | [3483-alternating-groups-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3483-alternating-groups-ii) |
 | [3643-zero-array-transformation-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3643-zero-array-transformation-ii) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Hash Table
 |  |
 | ------- |
@@ -65,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3277-find-the-number-of-ways-to-place-people-ii](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3277-find-the-number-of-ways-to-place-people-ii) |
 | [3278-find-the-number-of-ways-to-place-people-i](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3278-find-the-number-of-ways-to-place-people-i) |
 | [3279-alice-and-bob-playing-flower-game](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3279-alice-and-bob-playing-flower-game) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 | [3830-find-closest-person](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3830-find-closest-person) |
 ## Counting
 |  |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2308-divide-array-into-equal-pairs](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2308-divide-array-into-equal-pairs) |
 | [2478-longest-nice-subarray](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2478-longest-nice-subarray) |
 | [3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3475-minimum-operations-to-make-binary-array-elements-equal-to-one-i) |
+| [3744-minimum-operations-to-make-array-elements-zero](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/3744-minimum-operations-to-make-array-elements-zero) |
 ## Linked List
 |  |
 | ------- |
