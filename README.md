@@ -149,6 +149,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [2265-partition-array-according-to-given-pivot](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2265-partition-array-according-to-given-pivot) |
 | [2551-apply-operations-to-an-array](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2551-apply-operations-to-an-array) |
 | [2707-merge-two-2d-arrays-by-summing-values](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/2707-merge-two-2d-arrays-by-summing-values) |
@@ -222,6 +223,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/AhmedSelim04/Leetcode-Daily-challenge-solutions/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 ## Geometry
 |  |
